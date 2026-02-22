@@ -1,0 +1,12 @@
+dash
+pandas
+numpy
+scikit-learn
+umap-learn
+plotly
+numpy
+librosa
+yt_dlp
+itertools
+scipy
+soundfile
