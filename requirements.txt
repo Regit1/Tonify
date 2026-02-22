@@ -8,3 +8,4 @@ librosa
 yt_dlp
 scipy
 soundfile
+gunicorn
