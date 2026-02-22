@@ -10,7 +10,7 @@ from threading import Thread
 
 
 app = Dash(__name__)
-
+server = app.server
 
 def load_graph_figure(csv_file="ForceList.csv"):
     df = pd.read_csv(csv_file, header=None)
